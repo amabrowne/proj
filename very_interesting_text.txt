@@ -8,6 +8,7 @@ he will do this on a different branch so that he
 will not interfere with AStudent’s work.
 I think there is a better way
 This is very interesting. Thank you.
+Made a mistake on the master branch but it's fine now.
 AStudent suddenly realises that there is a 
 very nice text, that copes very nicely with 
 what BStudent is about to write. This is why 
